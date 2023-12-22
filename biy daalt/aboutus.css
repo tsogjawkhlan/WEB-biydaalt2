@@ -1,0 +1,66 @@
+@import url();
+html,body{
+    display: grid;
+}
+
+.text{
+    font-family: "Arial", sans-serif;
+    font-size: 30px;
+    font-weight: normal;
+    font-style: italic;
+    color: #333;
+    text-align: center;
+    line-height: 1.5;
+}
+.button{
+    position: absolute;
+    margin-left: 1100px;
+    font-family: "arial", sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    font-style: italic;
+    color: #333;
+    line-height: 1.5;
+    background-color: pink;
+    
+}
+.text2{
+    position: absolute;
+    margin-top: 350px;
+}
+.text3{
+    font-family: "Arial", sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    font-style: italic;
+    color: #333;
+    text-align: center;
+    line-height: 1.5;
+    
+}
+.link{
+    position:absolute;
+    margin-left: 1250px;
+    background-color: pink;
+    margin-bottom: 20px;
+}
+.link1{
+    position: absolute;
+    margin-left: 1220px;
+    background-color: pink;
+}
+footer {
+    margin-top: 210px;
+    margin-left: 630px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+  }
+.container{
+    background: linear-gradient(-130deg, pink,white);
+    margin-bottom: -20px;
+    margin-top: -10px;
+    margin-right: -10px;
+    margin-left: 20px;
+}
+  
